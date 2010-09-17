@@ -1,0 +1,8 @@
+--- 
+format: 1
+handler: 
+  commit: f15849bec3ebfe20eb28bd5b1ac161f74369a56d
+  branch: master
+lock: true
+repository_class: Piston::Git::Repository
+repository_url: git://github.com/brynary/rack-bug.git

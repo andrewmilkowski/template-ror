@@ -1,0 +1,8 @@
+--- 
+format: 1
+handler: 
+  commit: 3733e394743229aa4c6bbac9a48eded7bf7ad0fc
+  branch: master
+lock: true
+repository_class: Piston::Git::Repository
+repository_url: git://github.com/iridesco/time-warp.git

@@ -1,0 +1,8 @@
+--- 
+format: 1
+handler: 
+  commit: b5017e306cbe45cfbffcbdc166edfafe60981ef5
+  branch: master
+lock: true
+repository_class: Piston::Git::Repository
+repository_url: git://github.com/grosser/parallel_tests.git

@@ -1,0 +1,8 @@
+--- 
+format: 1
+handler: 
+  commit: 3017dad36a51488587fc7bf342f91c97d3cf71c8
+  branch: master
+lock: true
+repository_class: Piston::Git::Repository
+repository_url: git://github.com/redinger/validation_reflection.git

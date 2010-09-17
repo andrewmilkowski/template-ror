@@ -1,0 +1,8 @@
+--- 
+format: 1
+handler: 
+  commit: d799c499c49b02feae6d01bcc81fa8039325acfc
+  branch: master
+lock: true
+repository_class: Piston::Git::Repository
+repository_url: git://github.com/newrelic/rpm.git
